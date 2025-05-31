@@ -10,3 +10,11 @@ This add-in can generate both text and image in Excel using OpenAI API. See the 
 * Image Generation
 * Translate Text
 * Fill Missing Data
+
+This project is an Excel Add-in built for integrating with the Gemini AI model by Google.
+
+---
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
