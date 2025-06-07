@@ -15,6 +15,3 @@ This project is an Excel Add-in built for integrating with the Gemini AI model b
 
 ---
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
