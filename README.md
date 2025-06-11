@@ -8,6 +8,8 @@ This excel add-in for ChatGPT is the **fastest** and most **feature-rich** which
 * Image Generation
 * Translate Text
 * Fill Missing Data
+* Search Web
+  
 [Documentation of Excel Addin for ChatGPT](https://www.listendata.com/2023/03/how-to-run-chatgpt-inside-excel.html)
 
 ---
