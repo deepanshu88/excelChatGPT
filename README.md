@@ -11,7 +11,5 @@ This excel add-in is the **fastest** and most **feature-rich** which can generat
 * Translate Text
 * Fill Missing Data
 
-This project is an Excel Add-in built for integrating with the Gemini AI model by Google.
-
 ---
 
