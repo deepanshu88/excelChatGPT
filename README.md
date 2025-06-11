@@ -1,5 +1,5 @@
 # ChatGPT in Excel
-This excel add-in for ChatGPT is the **fastest** and most **feature-rich** which can generate both text and image in Excel using OpenAI API. It **supports both parallel and batch processing** for a large volume of prompts. See the features of the add-in below:
+This excel add-in for ChatGPT is the **fastest** and most **feature-rich** which can generate both text and image in Excel using OpenAI API. **It supports both parallel and batch processing** for a large volume of prompts. See the features of the add-in below:
 
 * Text Generation
 * Multi-turn Conversations (Chat)
